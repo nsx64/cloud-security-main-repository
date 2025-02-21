@@ -2,6 +2,8 @@
 
 I’m consolidating all my repositories into a single location and integrating them for seamless access.
 
+Should be done soon.
+
 Here’s what you can expect:
 ---
 + Cloud security architectures
