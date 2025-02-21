@@ -1,4 +1,4 @@
-# pentesting-and-security-projects
+# Pentesting and Security Projects
 
 Here’s what you can expect:
 ---
